@@ -9,7 +9,7 @@ Changes to be committed:
 	new file:   .cache/chromium/Default/Cache/03da30565137928b_0
 	new file:   .cache/chromium/Default/Cache/06dd5a0c42a15f34_0
 	new file:   .cache/chromium/Default/Cache/09d5af4d039c79a2_0
-	new file:   .cache/chromium/Default/Cache/0c568e5fcfea93e4_0
+	new file:   .cache/chromium/Default/Cache/
 	new file:   .cache/chromium/Default/Cache/0d27810857ffdd36_0
 	new file:   .cache/chromium/Default/Cache/0d676eadf9efaaef_0
 	new file:   .cache/chromium/Default/Cache/0de325ec24fff727_0
